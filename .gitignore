@@ -1,0 +1,22 @@
+# ========= Xcode / macOS =========
+DerivedData/
+*.xcuserdata/
+*.xcuserstate
+.DS_Store
+
+# ========= Build / Cache =========
+.build/
+*.log
+
+# ========= CocoaPods =========
+Pods/
+
+# ========= Firebase =========
+GoogleService-Info.plist
+
+# ========= Razorpay =========
+RazorpayHandler.swift
+
+# ========= Environment =========
+.env
+.env.*
