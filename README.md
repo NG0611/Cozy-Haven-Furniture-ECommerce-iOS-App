@@ -70,7 +70,6 @@ Configure your own Firebase project and payment credentials before running the a
 ## 👨‍💻 Contributors
 
 - **Nikunj Garg**
-- **Kusham Lata**
 
 ---
 
