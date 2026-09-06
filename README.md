@@ -45,11 +45,13 @@ A modern iOS furniture shopping application built using **SwiftUI**, **Firebase*
 <p align="center">
   <img src="screenshots/IMG_4305.PNG" width="220"/>
   <img src="screenshots/IMG_4306.PNG" width="220"/>
+  <img src="screenshots/IMG_4580.PNG" width="220"/>
   
 </p>
 
 <p align="center">
   <img src="screenshots/IMG_4308.PNG" width="220"/>
+  <img src="screenshots/IMG_4581.PNG" width="220"/>
 </p>
 
 ---
